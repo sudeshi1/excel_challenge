@@ -11,35 +11,34 @@ Getting funded on Kickstarter requires meeting or exceeding the project's initia
 
 2. Created a new column called Percent Funded that used formula to uncover how much money a campaign made to reach it's initial goal. ((Pledged/Goal)*100)
 
-![Conditional Formatting](\images\Outcome.jpg)
+![Conditional Formatting](/images/Outcome.jpg)
 
 3. Pivot Table - Analyzing initial worksheet to count the outcome of campaigns per **category** further creating a stacked pivot chart that can be filtered by country
 
-![Pivot Table 1](\images\Category.jpg)
+![Pivot Table 1](/images/Category.jpg)
 
 4. Pivot Table - Analyzing initial worksheet to count the outcome of campaigns per **sub-category** further creating a stacked pivot chart that can be filtered by country and parent-category
 
-![Pivot Table 2](\images\Sub Category.jpg)
+![Pivot Table 2](/images/Sub Category.jpg)
 
 5. Created a new column named Date Created Conversion and Date Ended Conversion
 Pivot Table - Analyzed data based on count of outcomes based on months over the years further creating a pivot chart that visualizes the table.
 
-![Pivot Table 3](\images\Deadline.jpg)
+![Pivot Table 3](/images/Deadline.jpg)
 
 ### Bonus!
 
 6. Created a new sheet with 8 columns and 12 rows in the **Goal** header.
+  Using the COUNTIFS() function, computed number of successful, failed and canceled campaigns for their respective goal condition. Additionally, populated **Total Projects**   and found the percentage of projects per goal condition.
+  Lastly, created a line chart that graphs the relation between a goal amount and it's outcome.
 
-Using the COUNTIFS() function, computed number of successful, failed and canceled campaigns for their respective goal condition. Additionally, populated **Total Projects** and found the percentage of projects per goal condition.
-Lastly, created a line chart that graphs the relation between a goal amount and it's outcome.
-
-![Goal Conditions v/s Outcome](\images\Bonus.jpg)
+![Goal Conditions v/s Outcome](/images/Bonus.jpg)
 
 ### Bonus Statistical Analysis!
 
 7. Created a new sheet with number of backers of succesful and failed campaigns and evaluated their stats respectively.
 
-![Backers](\images\Bonus Stats.jpg)
+![Backers](/images/Bonus Stats.jpg)
 
 ## Conclusions
 
