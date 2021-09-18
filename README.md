@@ -19,7 +19,7 @@ Getting funded on Kickstarter requires meeting or exceeding the project's initia
 
 4. Pivot Table - Analyzing initial worksheet to count the outcome of campaigns per **sub-category** further creating a stacked pivot chart that can be filtered by country and parent-category
 
-![Pivot Table 2](/images/Sub Category.jpg)
+![Pivot Table 2](/images/Sub_category.jpg)
 
 5. Created a new column named Date Created Conversion and Date Ended Conversion
 Pivot Table - Analyzed data based on count of outcomes based on months over the years further creating a pivot chart that visualizes the table.
@@ -38,7 +38,7 @@ Pivot Table - Analyzed data based on count of outcomes based on months over the 
 
 7. Created a new sheet with number of backers of succesful and failed campaigns and evaluated their stats respectively.
 
-![Backers](/images/Bonus Stats.jpg)
+![Backers](/images/Bonus_Stats.jpg)
 
 ## Conclusions
 
