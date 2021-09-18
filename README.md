@@ -1,4 +1,4 @@
-# Excel Homework: Kickstart My Chart
+# Excel: Kickstart My Chart
 
 ## Background
 
