@@ -8,7 +8,7 @@ Getting funded on Kickstarter requires meeting or exceeding the project's initia
 
 ## Accomplishments
 
-![Kickstart_Excel](StarterBook.xlsx)
+[Kickstart_Excel](StarterBook.xlsx)
 1. Using conditional formatting, each cell in the **state** column is filled with a different color depending on whether the associated campaign was successful, failed or canceled or is currently live.
 
 2. Created a new column called Percent Funded that used formula to uncover how much money a campaign made to reach it's initial goal. ((Pledged/Goal)*100)
