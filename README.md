@@ -6,7 +6,9 @@ Over $2 billion has been raised using the massively successful crowdfunding serv
 
 Getting funded on Kickstarter requires meeting or exceeding the project's initial goal, so many organizations spend months looking through past projects in an attempt to discover some trick for finding success. For this week's homework, you will organize and analyze a database of 4,000 past projects in order to uncover any hidden trends.
 
-## Instructions
+## Accomplishments
+
+![Kickstart_Excel](StarterBook.xlsx)
 1. Using conditional formatting, each cell in the **state** column is filled with a different color depending on whether the associated campaign was successful, failed or canceled or is currently live.
 
 2. Created a new column called Percent Funded that used formula to uncover how much money a campaign made to reach it's initial goal. ((Pledged/Goal)*100)
