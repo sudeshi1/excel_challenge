@@ -43,7 +43,7 @@ Lastly, created a line chart that graphs the relation between a goal amount and 
 
 ## Conclusions
 
-[Conclusion](\Kickstart_Chart.docx)
+[Conclusion](Kickstart_Chart.docx)
 
 
 
